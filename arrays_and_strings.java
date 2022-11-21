@@ -1,7 +1,6 @@
 //Import ArrayList, StringBuilder, and HashTable
 import java.util.ArrayList;
 import java.util.Hashtable;
-import java.util.HashMap;
 
 public interface arrays_and_strings {
 static ArrayList<String> merge(String[] words, String[] more) {
